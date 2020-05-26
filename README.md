@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
@@ -58,3 +59,7 @@ frontend
 vendor/                  contains dependent 3rd-party packages
 environments/            contains environment-based overrides
 ```
+=======
+# yii_backend_init
+yii框架，使用adminlte+rbac的管理后台的初始化
+>>>>>>> 3a628e6cda0da4a3fef2795fb88301c696b639a0
